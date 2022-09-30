@@ -1,5 +1,7 @@
 ### Hey, how's it going? 👋
 
+<img src="https://niknt.github.io/PortfolioNT/img/hey-bit.png" />
+
 <h1>I'm Nikhil 😊</h1>
 
 [![@niktan's Holopin board](https://holopin.io/api/user/board?user=niktan)](https://holopin.io/@niktan)
@@ -27,5 +29,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img src="https://niknt.github.io/PortfolioNT/img/hey-bit.png" />
