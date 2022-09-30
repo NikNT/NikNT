@@ -3,7 +3,7 @@
 [![@niktan's Holopin board](https://holopin.io/api/user/board?user=niktan)](https://holopin.io/@niktan)
 
 - 👨🏼‍🎓 PG Student - Cloud Computing for Big Data (CCBT) - Lambton College, Toronto 🍁
-- 🔭 Learning ReactJS 😄
+- 🔭 Learning ReactJS ⚛️
 - 👨🏼‍💻 Ultimate Goal - Front End Developer 💻
 
 <!--
