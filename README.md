@@ -1,6 +1,6 @@
 ### Hey, how's it going? 👋
 
-<img src="https://niknt.github.io/PortfolioNT/img/hey-bit.png" />
+<!-- <img src="https://niknt.github.io/PortfolioNT/img/hey-bit.png" /> -->
 
 <h1>I'm Nikhil 😊</h1>
 
