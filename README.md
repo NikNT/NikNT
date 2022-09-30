@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey, how's it going? 👋
 
 [![@niktan's Holopin board](https://holopin.io/api/user/board?user=niktan)](https://holopin.io/@niktan)
 
