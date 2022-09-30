@@ -1,5 +1,7 @@
 ### Hey, how's it going? 👋
 
+<h1>I'm Nikhil</h1>
+
 [![@niktan's Holopin board](https://holopin.io/api/user/board?user=niktan)](https://holopin.io/@niktan)
 
 - 👨🏼‍🎓 PG Student - Cloud Computing for Big Data (CCBT) - Lambton College, Toronto 🍁
