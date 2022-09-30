@@ -5,6 +5,11 @@
 - 👨🏼‍🎓 PG Student - Cloud Computing for Big Data (CCBT) - Lambton College, Toronto 🍁
 - 🔭 Learning ReactJS ⚛️
 - 👨🏼‍💻 Ultimate Goal - Front End Developer 💻
+- 📚 Fav Reads - {
+    "Shoe Dog" : "Phil Knight",
+    "Atomic Habits" : "James Clear", 
+    "Subtle Art of Not Giving a [Bleep]" : "Mark Manson"
+}
 
 <!--
 **NikNT/NikNT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
