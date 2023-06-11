@@ -2,7 +2,8 @@
 
 [![@niktan's Holopin board](https://holopin.io/api/user/board?user=niktan)](https://holopin.io/@niktan)
 
-- 👨🏼‍🎓 PG Student - Cloud Computing for Big Data (CCBT) - Lambton College, Toronto 🍁
+- 👨🏼‍🎓 PG - Cloud Computing for Big Data (CCBT) - Lambton College, Toronto 🍁
+- 📕 UG - Bachelor of Technology (B.Tech.) - Computer Science and Engineering (CSE) - Lovely Professional University (LPU), Punjab, India 🪷
 - 🔭 Learning ReactJS ⚛️
 - 👨🏼‍💻 Ultimate Goal - Front End Developer 💻
 - 📚 Fav Reads - {
