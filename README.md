@@ -12,7 +12,7 @@
     "Atomic Habits" : "James Clear", 
     "Subtle Art of Not Giving a [Bleep]" : "Mark Manson"
 }
-
+- 📷 YouTube @ <a href="https://www.youtube.com/@frontendmechanix">FrontendMechanix</a>
 <!--
 **NikNT/NikNT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
