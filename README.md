@@ -13,6 +13,7 @@
     "Subtle Art of Not Giving a [Bleep]" : "Mark Manson"
 }
 - 📷 YouTube @ <a href="https://www.youtube.com/@frontendmechanix" target = "_blank" >FrontendMechanix</a>
+- 🐤 Twitter @ <a href="https://twitter.com/FE_Mechanix" target = "_blank" >FE_Mechanix</a>
 <!--
 **NikNT/NikNT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
