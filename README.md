@@ -1,4 +1,4 @@
-<h1>Hey, how's it going? I'm Nikhil <img src="https://niknt.github.io/PortfolioNT/img/hey-bit.png" style="height:50px;width:50px;" /></h1>
+<h1>Hey, how's it going? I'm Nikhil <img src="https://pbs.twimg.com/profile_images/1688700571807576064/Jx08Jrd9_400x400.png" style="height:50px;width:50px;" /></h1>
 
 [![@niktan's Holopin board](https://holopin.io/api/user/board?user=niktan)](https://holopin.io/@niktan)
 
