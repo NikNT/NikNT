@@ -1,6 +1,6 @@
 <h1>Hey, how's it going? <br /><br /> I'm Nikhil <br /><br /> <img src="https://pbs.twimg.com/profile_images/1688700571807576064/Jx08Jrd9_400x400.png" style="height:50px;width:50px;border-radius:50px" /></h1>
 
-[![@niktan's Holopin board](https://holopin.io/api/user/board?user=niktan)](https://holopin.io/@niktan)
+<img src="https://media.licdn.com/dms/image/D5616AQEq8iqy2VheCA/profile-displaybackgroundimage-shrink_350_1400/0/1685914627594?e=1698278400&v=beta&t=XDszZRQj2uxSAhHISmlxjwOQYzm5xdgytwXseAWkJuw" />
 
 - 👨🏼‍🎓 PG - Cloud Computing for Big Data (CCBT) - Lambton College, Toronto 🍁
 - 📕 UG - Bachelor of Technology (B.Tech.) - Computer Science and Engineering (CSE) - Lovely Professional University (LPU), Punjab, India 🪷
@@ -27,4 +27,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![@niktan's Holopin board](https://holopin.io/api/user/board?user=niktan)](https://holopin.io/@niktan)
 -->
