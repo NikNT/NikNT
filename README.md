@@ -14,7 +14,7 @@
 }
 - 📷 YouTube @ <a href="https://www.youtube.com/@frontendmechanix" target = "_blank" >FrontendMechanix</a>
 - 🐤 Twitter @ <a href="https://twitter.com/FE_Mechanix" target = "_blank" >FE_Mechanix</a>
-- 💼 Find me on <a href="https://www.linkedin.com/in/nikhil-tanwar-76b247128/">LinkedIn</a>
+- 💼 Let's Connect on <a href="https://www.linkedin.com/in/nikhil-tanwar-76b247128/">LinkedIn</a>
 - 📄 <a href="https://drive.google.com/file/d/1jQQNu0ypywifmuxGpnef0c7biaQYsNS7/view"/>Resume</a>
 - 🚧 <a href="https://niktan.netlify.app/"/>Portfolio </a> - Under Development
 <hr />
