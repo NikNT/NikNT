@@ -21,7 +21,7 @@
 <p>
     Hi there 👋🏽
 
-I'm Nikhil, a skilled Front End Developer with a passion for creating exceptional web experiences. I have a B.Tech. in Computer Science and Engineering and a Post Graduate Diploma in Cloud Computing for Big Data. Currently enrolled in the Meta Front End Professional Certificate program, I'm eager to take on new opportunities and looking for employment as a Front End Developer. 
+I'm Nikhil, a skilled Front End Developer with a passion for creating exceptional web experiences. I have a B.Tech. in Computer Science and Engineering and a Post Graduate Diploma in Cloud Computing for Big Data and Meta Front End Developer Professional Certificate. I'm eager to take on new opportunities and looking for employment as a Front End Developer. 
 
 My approach is centered on creating engaging and intuitive user experiences that bring ideas to life. With experience in designing and developing user-friendly interfaces and a deep understanding of modern web technology, I stay up-to-date with the latest frameworks. I strongly believe in collaboration and working closely with cross-functional teams to exceed expectations. 
 
