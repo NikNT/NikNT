@@ -5,7 +5,7 @@
 - 👨🏼‍🎓 PG - Cloud Computing for Big Data (CCBT) - Lambton College, Toronto 🍁
 - 📕 UG - Bachelor of Technology (B.Tech.) - Computer Science and Engineering (CSE) - Lovely Professional University (LPU), Punjab, India 🪷
 - 📃 Meta Front End Developer Professional Certificate ✅
-- 🔭 Practicing ReactJS, Exploring TypeScript, and Learning NextJS ⚛️
+- 🔭 Practicing ReactJS, Exploring Vue, and Learning NextJS ⚛️
 - 👨🏼‍💻 Ultimate Goal - Front End Developer 💻
 - 📚 Fav Reads - {
     "Shoe Dog" : "Phil Knight",
