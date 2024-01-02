@@ -3,6 +3,7 @@
 <h1>Hey, how's it going? <br /><br /> I'm Nikhil Tanwar <br /><br /> <img src="https://pbs.twimg.com/profile_images/1695604699943084032/3VP0rNEM_400x400.jpg" style="height:50px;width:50px;border-radius:50px" /></h1>
 
 - 💻 Current Working as Jr. Web Developer
+- ⚒️ I work with Nuxt, Django, and SQL
 - 👨🏼‍🎓 PG - Cloud Computing for Big Data (CCBT) - Lambton College, Toronto 🍁
 - 📕 UG - Bachelor of Technology (B.Tech.) - Computer Science and Engineering (CSE) - Lovely Professional University (LPU), Punjab, India 🪷
 - 📃 Meta Front End Developer Professional Certificate ✅
