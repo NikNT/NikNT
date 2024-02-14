@@ -2,12 +2,12 @@
 
 <h1>Hey, how's it going? <br /><br /> I'm Nikhil Tanwar <br /><br /></h1>
 
-- 💻 Current Working as Jr. Web Developer
+- 💻 Current Working as Junior Web Developer
 - ⚒️ I work with Nuxt, Django, DRF, and SQL
 - 👨🏼‍🎓 PG - Cloud Computing for Big Data (CCBT) - Lambton College, Toronto 🍁
 - 📕 UG - Bachelor of Technology (B.Tech.) - Computer Science and Engineering (CSE) - Lovely Professional University (LPU), Punjab, India 🪷
 - 📃 Meta Front End Developer Professional Certificate ✅
-- 🔭 Practicing ReactJS, Exploring VueJS, and Learning NextJS ⚛️
+- 🔭 Learning NuxtJS 
 - 👨🏼‍💻 Ultimate Goal - Front End Developer 💻
 - 📚 Fav Reads - {
     "Shoe Dog" : "Phil Knight",
