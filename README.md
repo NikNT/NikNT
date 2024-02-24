@@ -7,8 +7,8 @@
 - 👨🏼‍🎓 PG - Cloud Computing for Big Data (CCBT) - Lambton College, Toronto 🍁
 - 📕 UG - Bachelor of Technology (B.Tech.) - Computer Science and Engineering (CSE) - Lovely Professional University (LPU), Punjab, India 🪷
 - 📃 Meta Front End Developer Professional Certificate ✅
-- 🔭 Learning NuxtJS 
-- 👨🏼‍💻 Ultimate Goal - Front End Developer 💻
+- 🔭 Learning anything and everything 
+- 👨🏼‍💻 Ultimate Goal - Full Stack Developer 💻
 - 📚 Fav Reads - {
     "Shoe Dog" : "Phil Knight",
     "Atomic Habits" : "James Clear", 
@@ -17,7 +17,6 @@
 - 📷 YouTube @ <a href="https://www.youtube.com/@frontendmechanix" target = "_blank" >FrontendMechanix</a>
 - 🐤 Twitter @ <a href="https://twitter.com/FE_Mechanix" target = "_blank" >FE_Mechanix</a>
 - 💼 Let's Connect on <a href="https://www.linkedin.com/in/nikhil-tanwar-76b247128/">LinkedIn</a>
-- 📄 Check out my <a href="https://drive.google.com/file/d/1jQQNu0ypywifmuxGpnef0c7biaQYsNS7/view"/>Resume</a>
 <hr />
 
 <p>
