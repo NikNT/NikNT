@@ -1,7 +1,7 @@
 
 
-<h1> Hey, I'm Nikhil Tanwar <h1 />
-<h2>How's it going? <h2 /> 
+<h1> Hey, I'm Nikhil Tanwar </h1>
+<h2>How's it going? </h2>  
 
 - 💻 Current Working as Junior Web Developer
 - ⚒️ I work with Nuxt, Django, DRF, and SQL
