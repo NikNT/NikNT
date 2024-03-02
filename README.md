@@ -4,11 +4,10 @@
 <h2>How's it going? </h2>  
 
 - 💻 Current Working as Junior Web Developer
-- ⚒️ I work with Nuxt, Django, DRF, and SQL
+- ⚒️ I work with NuxtJS, Django REST Framework, and SQL
 - 👨🏼‍🎓 PG - Cloud Computing for Big Data (CCBT) - Lambton College, Toronto 🍁
 - 📕 UG - Bachelor of Technology (B.Tech.) - Computer Science and Engineering (CSE) - Lovely Professional University (LPU), Punjab, India 🪷
 - 📃 Meta Front End Developer Professional Certificate ✅
-- 🔭 Learning anything and everything 
 - 👨🏼‍💻 Ultimate Goal - Full Stack Developer 💻
 - 📚 Fav Reads - {
     "Shoe Dog" : "Phil Knight",
