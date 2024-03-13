@@ -20,13 +20,13 @@
 <hr />
 
 <p>
-    Hi there 👋🏽
+Hey there!
 
-I'm Nikhil, a skilled Front End Developer with a passion for creating exceptional web experiences. I have a B.Tech. in Computer Science and Engineering and a Post Graduate Diploma in Cloud Computing for Big Data and Meta Front End Developer Professional Certificate. I'm eager to take on new opportunities and looking for employment as a Front End Developer. 
+I'm Nikhil Tanwar, a Front End Developer on a journey of constant growth. With a background in Computer Science and Engineering, I'm all about pushing boundaries and learning along the way.
 
-My approach is centered on creating engaging and intuitive user experiences that bring ideas to life. With experience in designing and developing user-friendly interfaces and a deep understanding of modern web technology, I stay up-to-date with the latest frameworks. I strongly believe in collaboration and working closely with cross-functional teams to exceed expectations. 
+I'll admit, I'm not immune to mistakes, but I see them as stepping stones rather than stumbling blocks. I've had my fair share of '404 moments' and 'syntax blunders,' but like a true developer, I'm as consistent as an infinite loop! 
 
-If you're seeking a Front End Developer to turn your vision into reality, let's connect.
+So, if you're seeking someone who's always up for a challenge and committed to finding solutions, let's chat!
 
 Peace ✌🏼
 </p>
