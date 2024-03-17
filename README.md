@@ -14,6 +14,7 @@
     "Atomic Habits" : "James Clear", 
     "Subtle Art of Not Giving a [Bleep]" : "Mark Manson"
 }
+- 📖 Currently Reading - Steve Jobs by Walter Isaacson
 - 📷 YouTube @ <a href="https://www.youtube.com/@frontendmechanix" target = "_blank" >FrontendMechanix</a>
 - 🐤 Twitter @ <a href="https://twitter.com/FE_Mechanix" target = "_blank" >FE_Mechanix</a>
 - 💼 Let's Connect on <a href="https://www.linkedin.com/in/nikhil-tanwar-76b247128/">LinkedIn</a>
