@@ -24,7 +24,7 @@
 <p>
 Hey there!
 
-I'm Nikhil Tanwar, a Front End Developer on a journey of constant growth. With a background in Computer Science and Engineering, I'm all about pushing boundaries and learning along the way.
+I'm Nikhil Tanwar, a Full Stack Developer on a journey of constant growth. With a background in Computer Science and Engineering, I'm all about pushing boundaries and learning along the way.
 
 I'll admit, I'm not immune to mistakes, but I see them as stepping stones rather than stumbling blocks. I've had my fair share of '404 moments' and 'syntax blunders,' but like a true developer, I'm as consistent as an infinite loop! 
 
