@@ -4,17 +4,17 @@
 <h2>How's it going? </h2>  
 
 - 💻 Current Working as Junior Web Developer
-- ⚒️ I work with NuxtJS, Django REST Framework, and SQL
+- ⚒️ I work with NuxtJS, Django, and SQL
 - 👨🏼‍🎓 PG - Cloud Computing for Big Data (CCBT) - Lambton College, Toronto 🍁
 - 📕 UG - Bachelor of Technology (B.Tech.) - Computer Science and Engineering (CSE) - Lovely Professional University (LPU), Punjab, India 🪷
 - 📃 Meta Front End Developer Professional Certificate ✅
-- 👨🏼‍💻 Ultimate Goal - Full Stack Developer 💻
 - 📚 Fav Reads - {
     "Shoe Dog" : "Phil Knight",
     "Atomic Habits" : "James Clear", 
     "Subtle Art of Not Giving a [Bleep]" : "Mark Manson"
 }
-- 📖 Currently Reading - Steve Jobs by Walter Isaacson
+- 📖 Currently Reading - Shoe Dog by Phil Knight (again)
+- 📚 Last Read - The Alchemist by Paulo Coelho
 - 📜 Fav Quote - "One last drink and the bottle breaks, returning us to the dust from whence we came!"
 - 📷 YouTube @ <a href="https://www.youtube.com/@frontendmechanix" target = "_blank" >FrontendMechanix</a>
 - 🐤 Twitter @ <a href="https://twitter.com/FE_Mechanix" target = "_blank" >FE_Mechanix</a>
