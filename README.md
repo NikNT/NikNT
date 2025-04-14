@@ -16,6 +16,7 @@
 - 📖 Currently Reading - Shoe Dog by Phil Knight (again)
 - 📚 Last Read - The Alchemist by Paulo Coelho
 - 📜 Fav Quote - "One last drink and the bottle breaks, returning us to the dust from whence we came!"
+- 🌱 I’m currently learning Microservices
 - 📷 YouTube @ <a href="https://www.youtube.com/@frontendmechanix" target = "_blank" >FrontendMechanix</a>
 - 🐤 Twitter @ <a href="https://twitter.com/FE_Mechanix" target = "_blank" >FE_Mechanix</a>
 - 💼 Let's Connect on <a href="https://www.linkedin.com/in/nikhil-tanwar-76b247128/">LinkedIn</a>
