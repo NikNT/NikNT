@@ -15,7 +15,6 @@
 }
 - 📚 Last Read - Shoe Dog by Phil Knight (again)
 - 📖 Currently Reading - Greenlights by Matthew McConaughey
-- 📚 Last Read - The Alchemist by Paulo Coelho
 - 📜 Fav Quote - "One last drink and the bottle breaks, returning us to the dust from whence we came!"
 - 🌱 I’m currently learning Microservices
 - 📷 YouTube @ <a href="https://www.youtube.com/@frontendmechanix" target = "_blank" >FrontendMechanix</a>
